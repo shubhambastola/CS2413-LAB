@@ -13,8 +13,7 @@ This function reverses a singly linked list in C using an iterative approach. It
    - Move `previous` and `head` forward.
 3. Return `previous` as the new head.
 
-### **Time Complexity**  
-**O(n)**  
+### **Time Complexity**  : **O(n)**  
 
 ---
 
@@ -35,6 +34,5 @@ struct ListNode * removeElements(struct ListNode * head, int val);
 2) val: Value to remove from the list.
 3) Return the value in the linked list without the specified value
 
-### **Time Complexity**
-**O(n)**
+### **Time Complexity** : **O(n)**
 
